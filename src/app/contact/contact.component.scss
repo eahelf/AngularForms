@@ -10,18 +10,19 @@ label {
 
     .error {
         margin-top: -20px;
-        background: yellow;
+        background: rgb(236, 139, 139);
         padding: .5em;
         display: inline-block;
         font-size: .9em;
         margin-bottom: 20px;
+        color: white;
     }
 }
 
 .cta {
-    background: #7700FF;
+    background: rgb(247, 100, 119);
     border: none;
-    color: white;
+    color: rgb(0, 0, 0);
 
     text-transform: uppercase;
     border-radius: 4px;
